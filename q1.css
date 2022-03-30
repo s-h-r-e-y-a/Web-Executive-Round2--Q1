@@ -1,55 +1,62 @@
-
 #first {
-  width: 470px;
-  height: 250px;
+  width: 478px;
+  height: 255px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
   margin-top: 15px ;
+  margin-right:1px;
+  margin-bottom:10px;
   float:left;
   
 }
 
 
 #second {
-  width: 350px;
+  width: 362px;
   height: 80px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
-  float:left;
+   margin-left:1px;
+  margin-right:17px;
+  float:right;
 
 }
 #seventh {
-  width: 350px;
+  width: 362px;
   height: 80px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
+  margin-left:1px;
+   margin-right:17px;
   float:right;
-  margin-top:1px;
 }
 #nineth{
-   width: 350px;
+   width: 362px;
   height: 80px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
+  margin-left:1px;
+   margin-right:17px;
   float:right;
-  text-align:center; 
 }
 #tenth{
-  width: 350px;
+  width: 362px;
   height: 80px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
+  margin-left:1px;
   float:right;
+   margin-right:17px;
 
 }
 #third {
   width: 400px;
-  height: 700px;
+  height: 695px;
   border: 2px solid black;
   padding: 20px;
   margin-top: 15px;
@@ -57,34 +64,37 @@
   float:right;
 }
 #fourth {
-  width: 350px;
+  width: 362px;
   height: 80px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
   float: right;}
 
-#fifth {
-  width: 160px;
-  height: 393px;
-  border: 2px solid black;
-  padding: 20px;
-  margin: 15px;
-  float:right;
-}
 
 #sixth {
-  width: 210px;
-  height: 370px;
+  width: 186px;
+  height: 373px;
   border: 2px solid black;
   padding: 20px;
   margin: 15px;
+  margin-right: 1px;
   float:left;}
 
 
+#fifth {
+  width: 229px;
+  height: 373px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 15px;
+  margin-right:1px;
+  float:left;
+}
+
  
 #eight {
-  width: 350px;
+  width: 3px;
   height: 100px;
   border: 2px solid black;
   padding: 20px;
@@ -92,3 +102,6 @@
   float:left;
   text-align:center;
 }
+
+  
+
